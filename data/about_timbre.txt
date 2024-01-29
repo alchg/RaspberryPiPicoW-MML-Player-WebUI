@@ -1,0 +1,17 @@
+Description=description
+WaveformType=0~4		// 0:SINE 1:SQUARE 2:TRIANGLE 3:SAWTOOTH 4:NOISE
+EnableEnvelope=0~1		// 1:true 0:false
+TicksAttack=1~
+TicksDecay=1~
+VolumeSustain=0~100
+TicksRelease=1~
+EnableModulator=0~1		// 1:true 0:false
+TypeModulator=0~1
+VolumeModulator=0~100
+WaveformTypeModulator=0~4	// 0:SINE 1:SQUARE 2:TRIANGLE 3:SAWTOOTH 4:NOISE
+FrequencyRatio=0~15.0
+EnableEnvelopeModulator=0~1	// 1:true 0:false
+TicksAttackModulator=1~
+TicksDecayModulator=1~
+VolumeSustainModulator=0~100
+TicksReleaseModulator=1~

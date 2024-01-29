@@ -1,0 +1,8 @@
+Description=original-3
+WaveformType=2
+EnableModulator=1
+TypeModulator=1
+VolumeModulator=100
+WaveformTypeModulator=1
+FrequencyRatio=0.51
+EnableEnvelopeModulator=0

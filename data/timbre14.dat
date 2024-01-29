@@ -1,0 +1,9 @@
+Description=drum
+WaveformType=3
+EnableEnvelope=1
+TicksAttack=1
+EnableModulator=1
+TypeModulator=0
+VolumeModulator=60
+WaveformTypeModulator=3
+FrequencyRatio=1.0

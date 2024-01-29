@@ -1,0 +1,17 @@
+Description=sine-xylophone
+WaveformType=0
+EnableEnvelope=1
+TicksAttack=1
+TicksDecay=79
+VolumeSustain=30
+TicksRelease=80
+EnableModulator=0
+TypeModulator=0
+VolumeModulator=100
+WaveformTypeModulator=0
+FrequencyRatio=1.0
+EnableEnvelopeModulator=0
+TicksAttackModulator=1
+TicksDecayModulator=1
+VolumeSustainModulator=100
+TicksReleaseModulator=1

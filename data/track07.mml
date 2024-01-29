@@ -1,0 +1,60 @@
+;snare
+@5v35
+
+r1
+r1
+r1
+r1
+; 4
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+; 8
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+; 12
+v75
+r c r c
+r c r c
+r c r c
+r c r c
+; 16
+r c r c
+r c r c
+r c r c
+r c r c
+; 20
+r1
+r1
+r1
+r1
+; 24
+v35
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+; 28
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+c8 c8 c8 c8 c8 c8 c8 c8
+; 32
+v75
+r c r c
+r c r c
+r c r c
+r c r c
+; 36
+r c r c
+r c r c
+r c r c
+c c c c
+; 40
+v35 c8 c8 c8 c8 c8 c8 c8 c8
+v25 c8 c8 c8 c8 c8 c8 c8 c8
+v15 c8 c8 c8 c8 c8 c8 c8 c8
+v5 c8 c8 c8 c8 c8 c8 c8 c8

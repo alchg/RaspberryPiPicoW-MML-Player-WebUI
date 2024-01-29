@@ -1,0 +1,6 @@
+Description=NOISE2
+WaveformType=4
+TicksAttack=25
+TicksDecay=60
+VolumeSustain=30
+TicksRelease=350

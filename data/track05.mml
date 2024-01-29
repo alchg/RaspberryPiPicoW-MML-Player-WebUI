@@ -1,0 +1,55 @@
+;base
+@3v50
+o3
+
+r1
+r1
+r1
+r1
+; 4
+c c d c
+c c f c
+c c <g g>
+c d e c
+; 8
+c c d c
+c c f c
+c c g g
+c d c c
+; 12
+e c e c
+e c e e
+f f e e
+d d <g> g
+; 16
+e c e c
+e c e e
+f f e e
+c d c c
+; 20
+r1
+r1
+r1
+r1
+; 24
+c c d c
+c c f c
+c c <g g>
+c d e c
+; 28
+c c d c
+c c f c
+c c g g
+c d c c
+; 32
+e c e c
+e c e e
+f f e e
+d d <g> g
+; 36
+e c e c
+e c e e
+f f e e
+d d <g g>
+; 40
+c1

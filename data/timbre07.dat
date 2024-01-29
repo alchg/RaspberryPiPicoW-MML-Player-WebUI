@@ -1,0 +1,16 @@
+Description=original-2
+WaveformType=0
+TicksAttack=25
+TicksDecay=125
+VolumeSustain=30
+TicksRelease=1920
+EnableModulator=1
+TypeModulator=1
+VolumeModulator=100
+WaveformTypeModulator=0
+FrequencyRatio=10.67
+EnableEnvelopeModulator=1
+TicksAttackModulator=25
+TicksDecayModulator=125
+VolumeSustainModulator=60
+TicksReleaseModulator=1920

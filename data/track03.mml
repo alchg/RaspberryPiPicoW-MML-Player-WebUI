@@ -1,0 +1,56 @@
+;main-2
+;metal
+@10v100
+o5
+
+r1
+r1
+>g2r2<
+>g2r2<
+; 4
+r1
+r1
+r1
+r1
+; 8
+r1
+r1
+r1
+r1
+; 12
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+e8d8d8c8d8g.
+; 16
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+g8g8f8d8cr
+; 20
+r1
+r1
+>g2r2<
+>g2r2<
+; 24
+r1
+r1
+r1
+r1
+; 28
+r1
+r1
+r1
+r1
+; 32
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+e8d8d8c8d8g.
+; 36
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+g g a b
+; 40
+>c1

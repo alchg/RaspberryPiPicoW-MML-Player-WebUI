@@ -1,0 +1,63 @@
+;main-1-2
+
+;xylophone-2
+@11
+o6
+e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>
+e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>e-32r32r16 r8 r
+e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>
+e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>e-32r32r16 r8 r
+; 4
+@0
+o3
+g8>e8d8c8<g.g8
+g8>e8d8c8<a.a8
+a8>f8e8d8<b.>f8
+g8g8f8d8e.<g8
+; 8
+g8>e8d8c8<g.g8
+g8>e8d8c8<a.a8
+a8>f8e8d8 g8g8g8g8
+a8g8f8d8 c8 r8 g
+; 12
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+e8d8d8c8d8g.
+; 16
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+g8g8f8d8cr
+; 20
+;xylophone-2
+@11
+o6
+e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>
+e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>e-32r32r16 r8 r
+e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>
+e-32r32r16e-32r32r16<a-32r32r16a-32r32r16>e-32r32r16 r8 r
+; 24
+@0
+o3
+g8>e8d8c8<g.g8
+g8>e8d8c8<a.a8
+a8>f8e8d8<b.>f8
+g8g8f8d8e.<g8
+; 28
+g8>e8d8c8<g.g8
+g8>e8d8c8<a.a8
+a8>f8e8d8 g8g8g8g8
+a8g8f8d8 c8 r8 g
+; 32
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+e8d8d8c8d8g.
+; 36
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+g g a b
+; 40
+>c1

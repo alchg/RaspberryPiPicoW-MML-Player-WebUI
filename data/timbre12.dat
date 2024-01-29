@@ -1,0 +1,17 @@
+Description=tranpet-main
+WaveformType=1
+EnableEnvelope=1
+TicksAttack=80
+TicksDecay=40
+VolumeSustain=55
+TicksRelease=60
+EnableModulator=1
+TypeModulator=1
+VolumeModulator=30
+WaveformTypeModulator=0
+FrequencyRatio=0.994
+EnableEnvelopeModulator=0
+TicksAttackModulator=1
+TicksDecayModulator=1
+VolumeSustainModulator=20
+TicksReleaseModulator=1

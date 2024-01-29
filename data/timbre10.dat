@@ -1,0 +1,17 @@
+Description=bell-1
+WaveformType=0
+EnableEnvelope=1
+TicksAttack=1
+TicksDecay=79
+VolumeSustain=30
+TicksRelease=960
+EnableModulator=1
+TypeModulator=0
+VolumeModulator=100
+WaveformTypeModulator=0
+FrequencyRatio=3.5
+EnableEnvelopeModulator=0
+TicksAttackModulator=1
+TicksDecayModulator=1
+VolumeSustainModulator=100
+TicksReleaseModulator=1

@@ -1,0 +1,17 @@
+Description=epiano
+WaveformType=0
+EnableEnvelope=1
+TicksAttack=20
+TicksDecay=150
+VolumeSustain=50
+TicksRelease=2400
+EnableModulator=1
+TypeModulator=0
+WaveformTypeModulator=0
+VolumeModulator=30
+FrequencyRatio=2.990
+EnableEnvelopeModulator=1
+TicksAttackModulator=1
+TicksDecayModulator=100
+VolumeSustainModulator=50
+TicksReleaseModulator=1

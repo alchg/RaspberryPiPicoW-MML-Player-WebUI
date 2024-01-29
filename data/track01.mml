@@ -1,0 +1,66 @@
+;main-1
+t100
+
+;xylophone-1
+@11
+o6
+e8e8<a8a8>e8e8<a8a8>
+e8e8<a8a8>e r
+e8e8<a8a8>e8e8<a8a8>
+e8e8<a8a8>e r
+; 4
+;trumpet-high
+@12
+o4
+g8>e8d8c8<g.g8
+g8>e8d8c8<a.a8
+a8>f8e8d8<b.>f8
+g8g8f8d8e.<g8
+; 8
+g8>e8d8c8<g.g8
+g8>e8d8c8<a.a8
+a8>f8e8d8 g8g8g8g8
+a8g8f8d8 c8 r8 g
+; 12
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+e8d8d8c8d8g.
+; 16
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+g8g8f8d8cr
+; 20
+;xylophone-1
+@11
+o6
+e8e8<a8a8>e8e8<a8a8>
+e8e8<a8a8>e r
+e8e8<a8a8>e8e8<a8a8>
+e8e8<a8a8>e r
+; 24
+;trumpet-high
+@12
+o4
+g8>e8d8c8<g.g8
+g8>e8d8c8<a.a8
+a8>f8e8d8<b.>f8
+g8g8f8d8e.<g8
+; 28
+g8>e8d8c8<g.g8
+g8>e8d8c8<a.a8
+a8>f8e8d8 g8g8g8g8
+a8g8f8d8 c8 r8 g
+; 32
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+e8d8d8c8d8g.
+; 36
+e8e8ee8e8e
+e8g8c8d8e2
+f8f8f8.f16f8e8e8e8
+g g a b
+; 40
+>c1

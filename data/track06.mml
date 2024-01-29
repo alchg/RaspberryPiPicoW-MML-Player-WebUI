@@ -1,0 +1,56 @@
+;drum
+@14
+o2
+
+r1
+r1
+r1
+r1
+; 4
+r1
+r1
+r1
+r1
+; 8
+r1
+r1
+r1
+r1
+; 12
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+; 16
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+; 20
+r1
+r1
+r1
+r1
+; 24
+r1
+r1
+r1
+r1
+; 28
+r1
+r1
+r1
+r1
+; 32
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+; 36
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+c16 r16 r8  c16 r16 r8  c16 r16 r8  c16 r16 r8
+; 40
+c16 r16 r8  
+
