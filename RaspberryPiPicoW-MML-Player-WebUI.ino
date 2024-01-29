@@ -1373,6 +1373,7 @@ void loop1() {
       }
       playStatus = STAT_STOP;
       skipTicks = 0;
+      updateTimbre = false;
       while(playStatus == STAT_STOP){
         delay(100);
       }
