@@ -2498,6 +2498,10 @@ void handleAPI(){
         }
       }
       
+      if(status_ == STAT_PLAY && trackPlayIdxOld != trackPlayIdx){
+        waitPlayer();
+      }
+      
       key = "skip";
       if(server.hasArg(key) && status_ == STAT_PLAY){
         uint32_t value = server.arg(key).toInt();
@@ -2506,9 +2510,6 @@ void handleAPI(){
         }
       }
       
-      if(status_ == STAT_PLAY && trackPlayIdxOld != trackPlayIdx){
-        waitPlayer();
-      }
       playStatus = status_;
     }
   }else if(method_ == "setMml"){
