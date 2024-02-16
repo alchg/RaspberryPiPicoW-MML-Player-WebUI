@@ -553,7 +553,7 @@ uint16_t getTicks(uint16_t duration){
 }
 
 
-#define DEFAULT_TICKS_NUM_LENGTH_MAX  2
+#define DEFAULT_TICKS_NUM_LENGTH_MAX  3
 uint16_t defaultTicks;
 void setDefaultTicks(uint16_t channel_index){
   char      c;
@@ -579,6 +579,8 @@ void setDefaultTicks(uint16_t channel_index){
     case 8:
     case 16:
     case 32:
+    case 64:
+    case 128:
       defaultTicks = getTicks(duration);
       break;
     default:
@@ -599,6 +601,9 @@ bool isNoteNum(uint16_t duration){
       case 24:
       case 32:
       case 48:
+      case 64:
+      case 96:
+      case 128:
         return true;
       default:
         return false;
@@ -631,7 +636,7 @@ uint16_t getDottedTicks(uint16_t channel_index ,uint16_t base_ticks){
   return ticks;
 }
 
-#define NOTE_DURATION_LENGTH_MAX  2
+#define NOTE_DURATION_LENGTH_MAX  3
 void addTieTicks(uint16_t channel_index,char note,char half_step){
   char c;
   uint16_t duration;
