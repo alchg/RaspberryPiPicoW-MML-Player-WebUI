@@ -653,8 +653,14 @@ void addTieTicks(uint16_t channel_index,char note,char half_step){
         
         c = getChar(channel_index);
         
-        if(c == half_step){
+        if (half_step == '\0'){
+          // Nothing
+        }else if(c == half_step){
           c = getChar(channel_index);
+        }else{
+          trackData[channel_index].mml_index--;
+          trackData[channel_index].mml_index--;
+          break;
         }
         
         if(isNumber(c)){
